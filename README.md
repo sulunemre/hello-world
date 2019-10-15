@@ -1,4 +1,4 @@
 # Hello, World!
-the first one
+The first one.
 Wow! This is amazing!
 ...
